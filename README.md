@@ -1,2 +1,2 @@
 # exapmles
-Примеры кода из проекта BVD
+Примеры кода из проекта BVDshop https://bvdshop.ru/
