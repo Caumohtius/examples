@@ -1,5 +1,4 @@
-# exapmles
-Примеры кода из проекта [BVDshop](https://bvdshop.ru/)
+# Примеры кода из проекта [BVDshop](https://bvdshop.ru/)  
   
 Добавлены файлы следующих компонентов:  
 + Шапка/подвал - *Header/Footer(Des/Mob).vue* , также в настольной версии шапки плавающая панель *HeaderPanelDes.vue*;
